@@ -1,0 +1,36 @@
+.my-skill {
+    text-align: center;
+    font-weight: 300;
+    font-size: 1.5em;
+    margin-top: 5%;
+    color: rgb(117, 113, 113);
+}
+
+hr {
+    width:40% ;
+    text-align: center;
+}
+/* .container {
+    position: relative;
+}
+
+.row {
+    position: absolute;
+} */
+
+i.fab {
+    font-weight: 300;
+    width: 50px;
+    height: 50px;
+    font-size: 3em;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 1em;
+}
+i.img-fluid rounded-circle bg-light text-warning::before{
+    text-align: center;
+    margin-top: 50px;
+}
